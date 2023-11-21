@@ -9,3 +9,6 @@ The two functions are called in a coordinated fashion in order to enable the sim
 After retreiving the actual simulated measurment the chart is updated. 
 
 This is a personal project. 
+
+<img src="assets/image.PNG" width="628"/>
+
