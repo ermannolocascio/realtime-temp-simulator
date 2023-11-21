@@ -10,5 +10,5 @@ After retreiving the actual simulated measurment the chart is updated.
 
 This is a personal project. 
 
-<img src="assets/image.PNG" width="628"/>
+<img src="assets/data_streaming.PNG" width="628"/>
 
