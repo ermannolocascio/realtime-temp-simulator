@@ -19,14 +19,14 @@
             }
         }
 
-        // Store into an array 
-        $outputArray = Array (
-            "temp" => $temp,
-            "hr" => $hr,
+    // Store into an array 
+    $outputArray = Array (
+        "temp" => $temp,
+        "hr" => $hr,
           
         );
 
       // Encapusulate into a json and echo - this is the output that will be passed to the ajax
       echo json_encode($outputArray);
       
-           ?>
+?>
