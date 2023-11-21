@@ -1,6 +1,6 @@
 # realtime-temp-simulator
 
-This is a simulator to show in a real-time fashion temperature logs from a remote sensor. 
+This is a simulator to show temperature logs from a remote sensor in a real-time fashion. 
 
 To emulate a data streaming process, I'm using javascript to run two functions via ajax: the *sim_th.php* (which simulate the sensors logs) and the *query_th.php* (which is used to retrieve the simulated measurements from the MySQL database). 
 The two functions are called via ajax every 1.4 and 1.6 secs. After retrieving the actual simulated measurement the chart is updated.
